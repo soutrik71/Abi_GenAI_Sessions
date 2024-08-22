@@ -1,3 +1,7 @@
+"""
+Modular and commented implementation of the Transformer model as shown in notebook encoder_decoder_transformer.ipynb
+"""
+
 import torch
 import torch.nn as nn
 import math
