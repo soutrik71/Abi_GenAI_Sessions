@@ -38,3 +38,5 @@ data/
 tokenizer/
 runs/
 *.json
+notebooks/finetuning/outputs/
+notebooks/finetuning/results/
