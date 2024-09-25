@@ -40,3 +40,5 @@ runs/
 *.json
 notebooks/finetuning/outputs/
 notebooks/finetuning/results/
+tommyadams/
+lightning_logs/
